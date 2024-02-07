@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2 {
+    color: black;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+button {
+    background-color: #777276;
+    color: #fff;
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #7b7a7b;
+}
+
+p {
+    margin: 5px 0;
+}
+
+#story {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+#studentId {
+    font-style: italic;
+}
+
+/* Add more styles as needed */
